@@ -8,7 +8,7 @@ This is a 10 year budget planner and tracking sheet.
 
 
 
-![image](https://github.com/SupPu96/Budget-Planner/assets/138210218/6fada102-114d-4406-a5d7-7666c2b64d87)
+![image](https://github.com/SupPu96/Budget-Planner/assets/138210218/104cb72a-ddb5-4e57-8052-952c4ac1fa44)
 
 
 
