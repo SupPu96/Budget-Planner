@@ -3,7 +3,7 @@ This is a 10 year budget planner and tracking sheet.
 
 
 
-![image](https://github.com/SupPu96/Budget-Planner/assets/138210218/7525be9b-20e4-494f-8e47-4105b36004dc)
+![image](https://github.com/SupPu96/Budget-Planner/assets/138210218/37236f0a-4dc4-4443-9aca-8ecf9fad5bcf)
 
 
 
